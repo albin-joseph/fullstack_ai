@@ -14,6 +14,8 @@
     - *Loops*:
         - for Loops
             - Iterate over a sequence
+        - while loops
+            - exwecute still the condition meet
 
 - **Day 3**: Functions and Modules
 - **Day 4**: Data Structures(Lists, Tuples, Dictionaries, Sets)
