@@ -7,9 +7,14 @@
             - pip install jupyter
         - Install visual studio code
 - **Day 2**: Control Flow in Python
-    - if: Executes code if the condition is true
-    - elif: Add additional consitions after the initial if
-    - else: Executes code if none of the previous consitions are met
+    - **if**
+        - if: Executes code if the condition is true
+        - elif: Add additional consitions after the initial if
+        - else: Executes code if none of the previous consitions are met
+    - *Loops*:
+        - for Loops
+            - Iterate over a sequence
+
 - **Day 3**: Functions and Modules
 - **Day 4**: Data Structures(Lists, Tuples, Dictionaries, Sets)
 - **Day 5**: Working with Strings
