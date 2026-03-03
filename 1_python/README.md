@@ -43,6 +43,9 @@
     - Lists:
         - List are ordered mutable collections
         - Access elements by index
+        - Slicing, pop, insert, del, remove
+    - Tuples:
+        - Immutable collection of items
 - **Day 5**: Working with Strings
 - **Day 6**: File handling
 - **Day 7**: Python code and project
