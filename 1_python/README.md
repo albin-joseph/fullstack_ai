@@ -16,6 +16,10 @@
             - Iterate over a sequence
         - while loops
             - exwecute still the condition meet
+    - *break*:
+        - Terminated the loop prematurely when a condition is met
+    - *continue*:
+        - Skip the current iteration and will continue to the next loop
 
 - **Day 3**: Functions and Modules
 - **Day 4**: Data Structures(Lists, Tuples, Dictionaries, Sets)
