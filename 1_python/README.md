@@ -40,6 +40,9 @@
             - Use aliases
         - Creating Custom Modules
 - **Day 4**: Data Structures(Lists, Tuples, Dictionaries, Sets)
+    - Lists:
+        - List are ordered mutable collections
+        - Access elements by index
 - **Day 5**: Working with Strings
 - **Day 6**: File handling
 - **Day 7**: Python code and project
