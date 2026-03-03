@@ -32,6 +32,13 @@
             - global scope: out side function defined available globaly
         - Lifetime:
             - local scope variable not available after function execution, but global availble still program exists
+    - **Modules**:
+        - Modules are python files contian collection of functions and variables that can be reuse
+        - Import
+            - entire module
+            - specific function
+            - Use aliases
+        - Creating Custom Modules
 - **Day 4**: Data Structures(Lists, Tuples, Dictionaries, Sets)
 - **Day 5**: Working with Strings
 - **Day 6**: File handling
