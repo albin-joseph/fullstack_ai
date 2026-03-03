@@ -22,6 +22,16 @@
         - Skip the current iteration and will continue to the next loop
 
 - **Day 3**: Functions and Modules
+    - **Function**
+        - def keyword use for create a function
+        - def <function_name>(<parameters>):
+            #code block
+            return <result>
+        - Scope: 
+            - local scope: only inside the block or function
+            - global scope: out side function defined available globaly
+        - Lifetime:
+            - local scope variable not available after function execution, but global availble still program exists
 - **Day 4**: Data Structures(Lists, Tuples, Dictionaries, Sets)
 - **Day 5**: Working with Strings
 - **Day 6**: File handling
