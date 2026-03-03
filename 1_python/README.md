@@ -58,4 +58,6 @@
     - join
     - replce
 - **Day 6**: File handling
+    - Open files: r|w|a|+r
+    - Reading Files: read()|readline()|readlines()
 - **Day 7**: Python code and project
