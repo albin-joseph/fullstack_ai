@@ -51,5 +51,11 @@
     - Sets:
         - Unordered collection of unique items
 - **Day 5**: Working with Strings
+    - Concatenation
+    - slicing
+    - formatting
+    - split
+    - join
+    - replce
 - **Day 6**: File handling
 - **Day 7**: Python code and project
