@@ -48,6 +48,8 @@
         - Immutable collection of items
     - Dictionaries:
         - Key value pair collections to easy to look up
+    - Sets:
+        - Unordered collection of unique items
 - **Day 5**: Working with Strings
 - **Day 6**: File handling
 - **Day 7**: Python code and project
