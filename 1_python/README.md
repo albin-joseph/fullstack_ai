@@ -69,6 +69,9 @@
     - **Lambda Function**
         - Lambda functions are anonymous functions that can be defined in a single line of code. They are often used for short, simple functions that are not worth defining with a full function definition.
         - The syntax for a lambda function is as follows: lambda arguments: expression
+    - **OS and sys Modules**
+        - *OS Module*: Provide functions to interact with the operating system
+        - *Sys Module*: Provide access to system-specific parameter and functions
 
 
 [Back](../README.md)
