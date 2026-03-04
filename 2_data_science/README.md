@@ -10,6 +10,9 @@
     - Manipulating Arrays
         - Change Shape
         - Add dimensions
+    - Basic Operations on Arrays
+        - Element-wise operations
+        - Mathematical operations
 - Advanced NumPy Operations
 - Introduction to Pandas for Data Manipulation
 - Data Cleaning and Preparation with Pandas
