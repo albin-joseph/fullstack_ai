@@ -13,6 +13,7 @@
     - Basic Operations on Arrays
         - Element-wise operations
         - Mathematical operations
+        - Indexing, Slicing
 - Advanced NumPy Operations
 - Introduction to Pandas for Data Manipulation
 - Data Cleaning and Preparation with Pandas
