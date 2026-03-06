@@ -15,6 +15,12 @@
         - Mathematical operations
         - Indexing, Slicing
 - Advanced NumPy Operations
+    - Broadcasting
+        - Rules
+            - Dimensions are aligned from the right
+            - A dimension is compactable if:
+                - It matches the other array's dimensions
+                - One of the the dimesion is 1
 - Introduction to Pandas for Data Manipulation
 - Data Cleaning and Preparation with Pandas
 - Data Aggregation and Grouping in Pandas
