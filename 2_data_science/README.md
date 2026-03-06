@@ -21,6 +21,8 @@
             - A dimension is compactable if:
                 - It matches the other array's dimensions
                 - One of the the dimesion is 1
+        - Aggregate
+        - Boolean Indexing and Filtering
 - Introduction to Pandas for Data Manipulation
 - Data Cleaning and Preparation with Pandas
 - Data Aggregation and Grouping in Pandas
